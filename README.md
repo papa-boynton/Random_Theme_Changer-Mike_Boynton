@@ -1,7 +1,7 @@
 <html>
 <body bgcolor="black" style="color: white;">
 <div class="container" style="height: 150px; position: relative;">
-<div style="display:inline-block;vertical-align:top;"><img src="[button.png](https://user-images.githubusercontent.com/104691231/171516961-55cf53df-a200-4d7a-9e3f-e894ad9b775f.PNG)" width="178" height="152"></div>
+<div style="display:inline-block;vertical-align:top;"></div>
 <div style="display:inline-block;" class="vertical-center" style="margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);"><pre><h1 style="font-size: 120px;">Droptop Theme Changer</h1></pre></span>
 </div>
 <pre>
