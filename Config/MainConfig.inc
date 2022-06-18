@@ -36,7 +36,7 @@ Padding1=#DropdownItemPadding2#,#DropdownItemPaddingY#,([#ItemIsFolder[#*CURRENT
 
 ; -----------------------------------------
 
-CustomAppPosition=3
+CustomAppPosition=1
 
 ; -----------------------------------------
 
@@ -95,7 +95,7 @@ FontSize=#DropdownItemFontSize#
 FontWeight=#FontWeight#
 AntiAlias=#DropdownAntiAlias#
 InlineSetting=CharacterSpacing | #DropdownCharacterSpacing#
-W=(#DropdownMenuWidth#-([#CURRENTSECTION#:X]*2))
+W=(#DropdownMenuWidth#)
 ClipString=1
 
 ;-----------------------------------------
